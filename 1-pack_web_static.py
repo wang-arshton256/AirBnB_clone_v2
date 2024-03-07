@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 # Fabscript creat .tgz archive contents of web_static.
 
 from datetime import datetime
